@@ -5,7 +5,7 @@
 [![Demo](https://img.shields.io/badge/Demo-Live-success)](https://abdvlrqhman.com/eyeceai)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/abdvlrqhman/EyeceAI.svg)](https://github.com/abdvlrqhman/EyeceAI/stargazers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/abdvlrqhman)
 
 <div align="center">
   <img src="images/logo.png" alt="EyeceAI Logo" width="400"/>
