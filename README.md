@@ -1,6 +1,6 @@
 # 🔥 EyeceAI
 
-> Modern AI Chat Platform - Powered by Spacie.net
+> Modern AI Chat Platform - Powered by OpenRouter API
 
 [![Demo](https://img.shields.io/badge/Demo-Live-success)](https://abdvlrqhman.com/eyeceai)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -8,11 +8,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
 
 <div align="center">
-  <img src="assets/logo.png" alt="EyeceAI Logo" width="200"/>
+  <h2>🔥 EyeceAI</h2>
   
   **A beautiful, modern AI chat platform supporting multiple models with intelligent memory system**
   
-  [🚀 Try Demo](https://abdvlrqhman.com/eyeceai) • [📖 Docs](https://github.com/abdvlrqhman/EyeceAI/wiki) • [🐛 Report Bug](https://github.com/abdvlrqhman/EyeceAI/issues) • [✨ Request Feature](https://github.com/abdvlrqhman/EyeceAI/issues)
+  [🚀 Try Demo](https://abdvlrqhman.com/eyeceai) • [📖 Docs](https://github.com/abdvlrqhman/EyeceAI/blob/main/docs.md) • [🐛 Report Bug](https://github.com/abdvlrqhman/EyeceAI/issues) • [✨ Request Feature](https://github.com/abdvlrqhman/EyeceAI/issues)
 </div>
 
 ---
@@ -53,11 +53,12 @@ No downloads, no complex setup - just pure web-based AI chat experience!
 ## 🛠️ Technical Stack
 
 - **Frontend**: Pure HTML/CSS/JavaScript (No frameworks!)
-- **API**: OpenRouter Integration
+- **API**: OpenRouter Integration  
 - **Storage**: Browser LocalStorage
 - **Styling**: CSS Grid/Flexbox + Glassmorphism Effects
 - **Architecture**: Modular ES6 Classes
-- **Build**: None required - runs directly in browser
+- **Hosting**: Custom web server
+- **Deployment**: Live at abdvlrqhman.com/eyeceai
 
 ## 📋 Supported Models
 
@@ -72,10 +73,11 @@ No downloads, no complex setup - just pure web-based AI chat experience!
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="assets/screenshots/desktop-dark.png" alt="Desktop Dark Mode" width="45%"/>
-  <img src="assets/screenshots/desktop-light.png" alt="Desktop Light Mode" width="45%"/>
-  <img src="assets/screenshots/mobile.png" alt="Mobile View" width="30%"/>
+  <img src="images/dark-mode.png" alt="EyeceAI Dark Mode" width="45%"/>
+  <img src="images/light-mode.png" alt="EyeceAI Light Mode" width="45%"/>
 </div>
+
+*Experience EyeceAI in both dark and light themes with beautiful glassmorphism design*
 
 ## 🎯 Key Features Deep Dive
 
@@ -99,39 +101,39 @@ Upload and discuss various file types:
 - **Desktop Power** - Full feature set on large screens
 - **PWA Ready** - Install as a native app
 
-## 🔧 Local Development
+## 🌐 Access & Availability
 
-```bash
-# Clone the repository
-git clone https://github.com/abdvlrqhman/EyeceAI.git
+EyeceAI is currently available as a **live web application** at:
 
-# Navigate to directory
-cd EyeceAI
+**🚀 [https://abdvlrqhman.com/eyeceai](https://abdvlrqhman.com/eyeceai)**
 
-# Serve locally (any HTTP server)
-python -m http.server 8000
-# or
-npx serve .
-# or simply open index.html in your browser
-```
+- ✅ **No installation required** - runs directly in your browser
+- ✅ **Always up-to-date** - latest features automatically available
+- ✅ **Cross-platform** - works on any device with a modern browser
+- ✅ **Instant access** - just visit the link and start chatting
+
+> **Note**: This repository serves as documentation and project information. The source code is proprietary and hosted separately.
 
 ## 📚 Documentation
 
-- [Getting Started Guide](docs/getting-started.md)
-- [Memory System](docs/memory-system.md)
-- [API Integration](docs/api-integration.md)
-- [Customization](docs/customization.md)
-- [Troubleshooting](docs/troubleshooting.md)
+- [Getting Started Guide](docs.md#getting-started)
+- [Features Overview](docs.md#features)
+- [Usage Guide](docs.md#usage-guide)
+- [Customization](docs.md#customization)
+- [FAQ](docs.md#faq)
+- [Advanced Usage](docs.md#advanced-usage)
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+While the source code is not currently open source, I welcome feedback and suggestions!
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+**Ways to contribute:**
+- 🐛 **Report bugs** via [GitHub Issues](https://github.com/abdvlrqhman/EyeceAI/issues)
+- 💡 **Suggest features** through [GitHub Issues](https://github.com/abdvlrqhman/EyeceAI/issues)
+- 📧 **Direct feedback** via [ice@spacie.net](mailto:ice@spacie.net)
+- 💬 **Connect** on [LinkedIn](https://www.linkedin.com/in/abdvlrqhman/)
+
+Your input helps make EyeceAI better for everyone!
 
 ## 📝 Changelog
 
@@ -166,10 +168,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Abdulrahman (ICEdev)**
-- Website: [abdvlrqhman.com](https://abdvlrqhman.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- Website: [abdvlrqhman.com](https://abdvlrqhman.com/contact)
+- LinkedIn: [abdvlrqhman](https://www.linkedin.com/in/abdvlrqhman/)
 - GitHub: [@abdvlrqhman](https://github.com/abdvlrqhman)
-- Email: your.email@example.com
+- Email: [ice@spacie.net](mailto:ice@spacie.net)
+- Portfolio: [abdvlrqhman.com](https://abdvlrqhman.com)
 
 ## 🙏 Acknowledgments
 
