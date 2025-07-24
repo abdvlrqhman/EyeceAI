@@ -9,18 +9,17 @@ Eyeceai is a modern, secure, and user-friendly AI chat platform supporting OpenR
 
 ## Getting Started
 
+### Accessing Eyeceai
+Eyeceai is available as a live demo at [abdvlrqhman.com/eyeceai](https://abdvlrqhman.com/eyeceai). No installation or download is required.
+
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Edge, Safari, etc.)
 - An OpenRouter API key or a compatible custom model API key
 
-### Installation
-No installation is required. Eyeceai is a web-based application. Simply download or clone the repository and open the app in your browser.
-
 ### First Run
-1. **Download or clone the Eyeceai project.**
-2. **Open `index.html` in your browser.**
-3. **Sign in** with your username and API key (OpenRouter or custom model).
-4. **Start chatting** with the AI!
+1. **Visit** [abdvlrqhman.com/eyeceai](https://abdvlrqhman.com/eyeceai).
+2. **Sign in** with your username and API key (OpenRouter or custom model).
+3. **Start chatting** with the AI!
 
 ---
 
@@ -73,6 +72,8 @@ No installation is required. Eyeceai is a web-based application. Simply download
 ---
 
 ## File Structure
+
+*Note: The file structure below is for reference only. The demo is available online and not distributed as downloadable files.*
 ```
 /Docs/
   docs.md         # This documentation file
