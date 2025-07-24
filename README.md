@@ -1,6 +1,6 @@
 # 🔥 EyeceAI
 
-> Modern AI Chat Platform - Powered by OpenRouter API
+> Modern AI Chat Platform - Powered by Spacie.net - OpenRouter APIs
 
 [![Demo](https://img.shields.io/badge/Demo-Live-success)](https://abdvlrqhman.com/eyeceai)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
